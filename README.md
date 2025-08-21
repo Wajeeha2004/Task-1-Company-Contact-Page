@@ -50,7 +50,7 @@ This project is a simple Company Contact Page designed with clean HTML structure
 
 
 
-![Contact Page Screenshot](Screenshots/Contact_Page_2.png)
+![Contact Page Screenshot](Screenshots/Contact_Page_3.png)
 
 ---
 
