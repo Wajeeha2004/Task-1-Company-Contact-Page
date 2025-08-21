@@ -77,4 +77,4 @@ This project is a simple Company Contact Page designed with clean HTML structure
 
 Thank you for checking out this project. Feedback and suggestions are always welcome!
 
-#### 📧 Email: wajeehajahangir20@email.com  
+#### 📧 Email: wajeehajahangir20@gmail.com  
