@@ -4,7 +4,7 @@
 ### 📝 **Project Overview**
 
 
-This is a simple Contact Page for a Company, built with HTML. Users can send messages via a form, see company contact details, office hours, and navigate the site using the menu.
+This project is a simple Company Contact Page designed with clean HTML structure. It allows users to easily send messages through a form with fields like name, email, phone, subject, and message.The page also includes options for urgent messages and preferred contact methods. Company information such as office hours and address are clearly displayed. With a menu and footer links, it works as an easy contact page for any business website.
 
 ---
 ### ✨ **Features**
@@ -27,6 +27,12 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 8. Navigation menu
 
 9. Footer with links to Privacy Policy and Terms of Service
+---
+
+### 🛠️ **Technologies Used**
+
+**HTML** –  Provides the structure of the page, defining layout, text, forms, and links.
+
 ---
 ### 💻 **Screenshots**
 
@@ -61,4 +67,7 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 
 ---
 
+### 🙏 **Thanks for Visiting!**
+
+Thank you for checking out this project. Feedback and suggestions are always welcome!
 
