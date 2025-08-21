@@ -29,6 +29,7 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 
 ### 💻 **Screenshot**
 
+![Contact Page Screenshot](Screenshots/Contact-Page_1.png)
 
 ### 🚀 **How to Use**
 
