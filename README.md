@@ -2,11 +2,11 @@
 
 
 ### 📝 **Project Overview**
----
 
 
 This is a simple Contact Page for a Company, built with HTML. Users can send messages via a form, see company contact details, office hours, and navigate the site using the menu.
 
+---
 ### ✨ **Features**
 
 
@@ -27,7 +27,7 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 8. Navigation menu
 
 9. Footer with links to Privacy Policy and Terms of Service
-
+---
 ### 💻 **Screenshot**
 
 
@@ -35,6 +35,8 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 
 
 ![Contact Page Screenshot](Screenshots/Contact_Page_2.png)
+
+---
 
 ### 🚀 **How to Use**
 
@@ -45,6 +47,7 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
    
 3. Open index.html in any web browser.
 
+---
 ### 🌐 **Live Demo**
 
 
@@ -52,5 +55,6 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 
 #### 2. Netlify:        https://task1-contact-page.netlify.app/
 
+---
 
 
