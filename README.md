@@ -28,12 +28,15 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 
 9. Footer with links to Privacy Policy and Terms of Service
 ---
-### 💻 **Screenshot**
+### 💻 **Screenshots**
 
 
 ![Contact Page Screenshot](Screenshots/Contact_Page_1.png)
 
+
+
 ***
+
 
 ![Contact Page Screenshot](Screenshots/Contact_Page_2.png)
 
