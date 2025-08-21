@@ -33,6 +33,7 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 
 ![Contact Page Screenshot](Screenshots/Contact_Page_1.png)
 
+***
 
 ![Contact Page Screenshot](Screenshots/Contact_Page_2.png)
 
