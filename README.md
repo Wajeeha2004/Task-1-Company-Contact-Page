@@ -34,7 +34,7 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 
 1. Clone the repository:
    
-         git clone <>
+         git clone https://github.com/Wajeeha2004/Task-1-Company-Contact-Page
    
 3. Open index.html in any web browser.
 
