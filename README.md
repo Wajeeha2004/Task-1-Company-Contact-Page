@@ -10,7 +10,7 @@ This project is a simple Company Contact Page designed with clean HTML structure
 ### ✨ **Features**
 
 
-1. Responsive layout using the <meta viewport> tag
+1. Responsive layout using the meta viewport tag
 
 2. Contact form with: Full Name, Email and Phone input
 
@@ -29,7 +29,7 @@ This project is a simple Company Contact Page designed with clean HTML structure
 9. Footer with links to Privacy Policy and Terms of Service
 ---
 
-### 🛠️ **Technologies Used**
+### 🛠️ **Technology Used**
 
 **HTML** –  Provides the structure of the page, defining layout, text, forms, and links.
 
@@ -61,9 +61,9 @@ This project is a simple Company Contact Page designed with clean HTML structure
 ### 🌐 **Live Demo**
 
 
-#### 1. Vercel:        https://task-1-company-contact-page.vercel.app/
+#### 1. Vercel  :        https://task-1-company-contact-page.vercel.app/
 
-#### 2. Netlify:        https://task1-contact-page.netlify.app/
+#### 2. Netlify :        https://task1-contact-page.netlify.app/
 
 ---
 
