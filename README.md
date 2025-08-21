@@ -4,11 +4,9 @@
 ### 📝 **Project Overview**
 
 
-
 This is a simple Contact Page for a Company, built with HTML. Users can send messages via a form, see company contact details, office hours, and navigate the site using the menu.
 
 ### ✨ **Features**
-
 
 
 1. Responsive layout using the <meta viewport> tag
@@ -32,15 +30,12 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 ### 💻 **Screenshot**
 
 
-
 ![Contact Page Screenshot](Screenshots/Contact_Page_1.png)
-
 
 
 ![Contact Page Screenshot](Screenshots/Contact_Page_2.png)
 
 ### 🚀 **How to Use**
-
 
 
 1. Clone the repository:
@@ -50,7 +45,6 @@ This is a simple Contact Page for a Company, built with HTML. Users can send mes
 3. Open index.html in any web browser.
 
 ### 🌐 **Live Demo**
-
 
 
 #### 1. Vercel:        https://task-1-company-contact-page.vercel.app/
